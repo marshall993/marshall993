@@ -3,9 +3,9 @@
 
 ### Tech Stack
 
-| **HTML5** | **CSS3** | **FIGMA** | **SLACK** | **REACT** | **SASS** | **WORDPRESS** | **JQUERY** |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| **JAVASCRIPT** | **LIQUID** | **SKETCH**  | **SHORTCUT** | **VS CODE** | **GULP** | **BROWSERSTACK** | **NPM** |
+| **HTML5** | **CSS3** | **FIGMA** | **SLACK** | **REACT** | **SASS** | **WORDPRESS** | **JQUERY** | **SHOPIFY** |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| **JAVASCRIPT** | **LIQUID** | **SKETCH**  | **SHORTCUT** | **VS CODE** | **GULP** | **BROWSERSTACK** | **NPM** | **JSON** |
 
  
 
